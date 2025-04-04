@@ -41,7 +41,7 @@ make
 ```
 
 ## Документация
-Doxygen документация доступна [по ссылке](https://katerina-evdokimova.github.io/shanks-university/)
+Doxygen документация доступна [по ссылке](https://BimBoBam.github.io)
 
 ## Руководитель проекта
 
@@ -60,7 +60,7 @@ Doxygen документация доступна [по ссылке](https://ka
 Кармалина Ольга - Теоретик, Отчет karmalinaolga@mail.ru
 
 #### Авторы (2024)
-Крейнин Роман - Тимлид, программист (Эпсилон-Винн и модификации) kreynin.rg@mail.ru  
+Крейнин Роман - Тимлид (Эпсилон-Винн и модификации) kreynin.rg@mail.ru  
 
 Наумов Александр - Программист (Sidi-Levin S-transformation u,t,v) alex2004naumov@gmail.com
 
@@ -115,5 +115,5 @@ Doxygen документация доступна [по ссылке](https://ka
 
 - [Про Эпсилон алгоритм, примененный к монотонным и осцилирующим последовательностям](https://www.sciencedirect.com/science/article/pii/S0377042700005616)
 
-- [Подробный анализ трансформации Шенкса и Эпсилон алгоритма](https://www.researchgate.net/publication/327178717_The_genesis_and_early_developments_of_Aitken's_process_Shanks'_transformation_the_e-algorithm_and_related_fixed_point_methods)
+- [Подробный анализ трансформации Шенкса и Эпсилон алгоритма](https://www.researchgate.net/publication/327178717)
 
