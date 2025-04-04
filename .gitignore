@@ -1,0 +1,10 @@
+﻿x64
+*.tlog
+*.obj
+*.log
+*.exe
+/.vs
+/shanks_transformation/x64/Debug
+/x64/Debug
+html
+latex
